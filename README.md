@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+#<!--
 **anas-wasay/anas-wasay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: alamanas560@gmail.com
 - ⚡ Fun fact: I often build small tools to solve problems I face daily.
--->
+-->#
